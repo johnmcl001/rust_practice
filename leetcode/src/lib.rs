@@ -1,1 +1,1 @@
-mod array_string;
+pub mod array_string;
